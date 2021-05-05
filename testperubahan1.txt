@@ -3,3 +3,6 @@ fitur firut yang ditambah
 USER & PASSWORD  EDIT
 DROPDOWN OPTION PADA FORM TAMBAH PROGRAM, KEGIATAN, SUBKEGIATAN
 lebar kolom output pdf (kinerja akhir periode)
+----------------------------------------------------------------
+membuat loading progress bar loading pdf output rpjmd. (belum maksimal)
+membuat select size kertas di output rpjmd
