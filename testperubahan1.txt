@@ -3,3 +3,6 @@ fitur firut yang ditambah
 USER & PASSWORD  EDIT
 DROPDOWN OPTION PADA FORM TAMBAH PROGRAM, KEGIATAN, SUBKEGIATAN
 lebar kolom output pdf (kinerja akhir periode)
+------------------------------------------------------------------
+setting aplikasi nama,logo (templating) (dummy)
+buat tab rpjmd editable
