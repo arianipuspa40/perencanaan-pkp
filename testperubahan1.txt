@@ -6,3 +6,5 @@ lebar kolom output pdf (kinerja akhir periode)
 ----------------------------------------------------------------
 membuat loading progress bar loading pdf output rpjmd. (belum maksimal)
 membuat select size kertas di output rpjmd
+setting aplikasi nama,logo (templating) (dummy)
+buat tab rpjmd editable
